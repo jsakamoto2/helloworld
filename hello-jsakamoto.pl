@@ -1,2 +1,2 @@
-GREETING(HelloWorld).
+GREETING(helloWorld).
 ?-GREETING(X).
